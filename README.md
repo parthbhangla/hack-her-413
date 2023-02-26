@@ -1,6 +1,6 @@
 # hack-her-413
 
-we started off with trying to make a rfid activated smart lock using a servo motor, arduino uno and rfiduino
+we started off with trying to make a rfid activated smart lock (cause someone forgot their keys for their dorm so technically were forced to spend the night at the ILC) using a servo motor, arduino uno and rfiduino
 
 then we realised rfiduino has ass documentation so we switched to wifi based (esp8266). big mistake, id rather kill myself than implement it
 
